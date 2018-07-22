@@ -1,0 +1,3 @@
+#!/bin/bash
+clear
+echo "Good morning, world." > /cs/usr/cabby333/safe/DistProj/Interpolation/tmp

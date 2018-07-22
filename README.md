@@ -1,1 +1,2 @@
-# ByzantineWalletSystem
+# Multi-Server Wallet
+
